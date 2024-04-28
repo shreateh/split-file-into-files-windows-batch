@@ -4,6 +4,9 @@ splitting large files into smaller ones based on a specified line count
 **Copyright=Batch Script for splitting file into files**
 **Cright (c) [https://khalil-shreateh.com/links]**
 
+**READ** 
+https://khalil-shreateh.com/khalil.shtml/computer/42112-conquer-large-files-effortlessly-split-files-on-windows-with-a-batch-script.html
+
 **Background:**
 When working with large text files, it's often necessary to split them into smaller chunks for easier handling or processing. This is especially useful for log files, data exports, or any other text-based data that needs to be segmented.
 
